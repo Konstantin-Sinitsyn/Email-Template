@@ -1,6 +1,6 @@
 # **Email Template**  
 
-#### *[Ссылка на проект на GitHub Pages](https://konstantin-sinitsyn.github.io/HTML-Template/)*
+#### *[Ссылка на проект на GitHub Pages](https://konstantin-sinitsyn.github.io/Email-Template/)*
 
 ### Используемые технологии:
 * HTML
